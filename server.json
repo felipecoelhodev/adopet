@@ -73,5 +73,17 @@
       "image": "https://placedog.net/500"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "name": "teste",
+      "email": "teste@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": "0Tb_DumfrbY",
+      "phone": "teste",
+      "city": "teste",
+      "about": "teste"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
