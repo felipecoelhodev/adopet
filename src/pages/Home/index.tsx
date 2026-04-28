@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { useUsers } from "../../contexts/users/users";
 import { useNavigate } from "react-router";
 import { usePets } from "../../contexts/pets/pets";
