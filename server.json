@@ -73,5 +73,16 @@
       "image": "https://placedog.net/500"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "id": "73a1",
+      "name": "Felipe",
+      "email": "felipe@email.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "phone": "11999999999",
+      "city": "Lorem Ipsum, ZZ",
+      "about": "Eu gosto de adotar pets"
+    }
+  ]
 }
