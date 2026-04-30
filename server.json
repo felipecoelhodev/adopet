@@ -16,7 +16,7 @@
       "details": "Porte Pequeno",
       "location": "Rio de Janeiro, RJ",
       "description": "Bella é uma gata muito amorosa e brincalhona. Ela adora brincar com os outros gatos.",
-      "image": "https://placedog.net/642"
+      "image": "https://placecats.com/300/200"
     },
     {
       "id": "3",
@@ -52,7 +52,7 @@
       "details": "Porte Pequeno",
       "location": "Rio de Janeiro, RJ",
       "description": "Bella é uma gata muito amorosa e brincalhona. Ela adora brincar com os outros gatos.",
-      "image": "https://placedog.net/646"
+      "image": "https://placecats.com/neo/300/200"
     },
     {
       "id": "7",
@@ -81,8 +81,18 @@
       "password": "123123",
       "confirmPassword": "123123",
       "phone": "11999999999",
-      "city": "Lorem Ipsum, ZZ",
+      "city": "Teste, teste",
       "about": "Eu gosto de adotar pets"
+    },
+    {
+      "id": "c298",
+      "name": "Felipe2",
+      "email": "felipe@email2.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "phone": "11999999999",
+      "city": "Aqui mesmo, aqui",
+      "about": "Gosto de programar"
     }
   ]
 }
